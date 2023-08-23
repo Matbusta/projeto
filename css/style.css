@@ -80,7 +80,7 @@ body * {
   animation: aporradobotao 0.5s forwards;
 }
 
-#swich buttom:hover{
+#switch button:hover{
   outline: 8px solid var(--highlight-color);
 }
 
